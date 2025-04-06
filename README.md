@@ -1,6 +1,6 @@
 # Data-Breach-Target
 # Description
-This case study is about a data breach that Target suffered from in 2013. I did a deep dive into the cause of the breach and solution to avoid it. 
+This case study is about a data breach that Target suffered from in 2013. I did a deep dive into the cause of the breach and provide solutions to avoid it in the future. 
 
 ![image](https://github.com/user-attachments/assets/4602c451-a184-4641-9697-0596f425bb0d)
 ![image](https://github.com/user-attachments/assets/520c72ed-40b6-42ac-b7e2-3a5e17815829)
